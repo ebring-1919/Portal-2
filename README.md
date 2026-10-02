@@ -234,4 +234,4 @@ Portal 2 is available as a full free version, with all features and updates incl
 Don’t miss out on the chance to experience Portal 2! Download now and dive into a world of puzzles and challenges.
 
 ---
-**Last updated:** 2026-10-02 08:08:29 UTC
+**Last updated:** 2026-10-02 15:32:25 UTC
